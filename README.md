@@ -1,1 +1,4 @@
-# My_Minor_Project
+# My Minor Project
+
+Language: Python  
+Platform: Jupyter Notebook
